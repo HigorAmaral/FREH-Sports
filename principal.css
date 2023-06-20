@@ -91,9 +91,17 @@ p {
   }
 }
 
-.footer {
+footer {
   padding: 20px;
   text-align: center;
   background: #ddd;
   margin-top: 20px;
+  background-color: #61cb57;
+}
+.card-right{
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  float: right;
+  width: 70%;
 }
